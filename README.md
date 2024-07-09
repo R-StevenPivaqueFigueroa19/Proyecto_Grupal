@@ -11,10 +11,10 @@ Una aplicación JavaFX simple que permite al usuario seleccionar un año y mostr
 
 *TableView: Muestra los resultados de los constructores, incluyendo:
 
-Nombre del constructor
-Número de victorias
-Puntos totales
-Posición en el ranking de la temporada
+Nombre del constructor,
+Número de victorias,
+Puntos totales,
+Posición en el ranking de la temporada.
 
 <h3>Cómo usar</h3>
 Seleccionar Año: Utiliza el ComboBox para elegir un año de la lista de años disponibles.
