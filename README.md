@@ -7,9 +7,9 @@
 Una aplicación JavaFX simple que permite al usuario seleccionar un año y mostrar los resultados de los constructores para ese año, incluyendo el nombre del constructor, el número de victorias, los puntos totales y la posición en el ranking de la temporada.
 
 <h3>Funcionalidades</h3>
-**ComboBox**: Permite seleccionar un año disponible para consultar los resultados.
+*ComboBox: Permite seleccionar un año disponible para consultar los resultados.
 
-TableView: Muestra los resultados de los constructores, incluyendo:
+*TableView: Muestra los resultados de los constructores, incluyendo:
 
 Nombre del constructor
 Número de victorias
