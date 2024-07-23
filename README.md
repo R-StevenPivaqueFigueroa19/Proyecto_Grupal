@@ -11,7 +11,7 @@
 Una aplicación JavaFX simple que permite al usuario seleccionar un año y mostrar los resultados de los constructores para ese año, incluyendo el nombre del constructor, el número de victorias, los puntos totales y la posición en el ranking de la temporada.
 
 <h3>Funcionalidades</h3>
-*Menu amigable con 4 botones que permiten hacer diferentes consultas, al seleccionar uno  despliega otr interfaz grafica con los datos.
+*Menu amigable con 4 botones que permiten hacer diferentes consultas, 
 
 *Diagrama de barra con los totales de puntos de los drivers y constructors
 
@@ -25,6 +25,17 @@ Puntos totales,
 Posición en el ranking de la temporada.
 
 <h3>Cómo usar</h3>
+Al seleccionar uno  despliega otr interfaz grafica con los datos.
+
+<h3>DATOS DE LOS CONDUCTORES</h3>
+
+Seleccionar Año: Utiliza el ComboBox para elegir un año de la lista de años disponibles.
+
+ Resultado: La tabla se actualizará automáticamente para mostrar los resultados de los conductores del año seleccionado, incluyendo su nombre, número de victorias, puntos totales y posición en el ranking de la temporada.
+ 
+
+<h3>DATOS DE LOS CONSTRUCTORES</h3>
+
 Seleccionar Año: Utiliza el ComboBox para elegir un año de la lista de años disponibles.
 
  Resultado: La tabla se actualizará automáticamente para mostrar los resultados de los constructores del año seleccionado, incluyendo su nombre, número de victorias, puntos totales y posición en el ranking de la temporada.
