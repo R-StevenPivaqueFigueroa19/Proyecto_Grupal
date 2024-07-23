@@ -11,8 +11,10 @@
 Una aplicación JavaFX simple que permite al usuario seleccionar un año y mostrar los resultados de los constructores para ese año, incluyendo el nombre del constructor, el número de victorias, los puntos totales y la posición en el ranking de la temporada.
 
 <h3>Funcionalidades</h3>
-*Menu amigable que pemine seleccionar 4 opciones segun la consulta que tenga el usuario 
+*Menu amigable con 4 botones que permiten hacer diferentes consultas, al seleccionar uno  despliega otr interfaz grafica con los datos.
+
 *Diagrama de barra con los totales de puntos de los drivers y constructors
+
 *ComboBox: Permite seleccionar un año disponible para consultar los resultados.
 
 *TableView: Muestra los resultados de los constructores, incluyendo:
