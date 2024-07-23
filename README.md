@@ -10,6 +10,8 @@
 <h3>Resultados de Constructores de Fórmula 1</h3>
 Una aplicación JavaFX simple que permite al usuario seleccionar un año y mostrar los resultados de los constructores para ese año, incluyendo el nombre del constructor, el número de victorias, los puntos totales y la posición en el ranking de la temporada.
 
+*Al seleccionar un boton  despliega otra interfaz grafica con los datos.
+
 <h3>Funcionalidades</h3>
 *Menu amigable con 4 botones que permiten hacer diferentes consultas, 
 
@@ -25,7 +27,6 @@ Puntos totales,
 Posición en el ranking de la temporada.
 
 <h3>Cómo usar</h3>
-Al seleccionar uno  despliega otr interfaz grafica con los datos.
 
 <h3>DATOS DE LOS CONDUCTORES</h3>
 
